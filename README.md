@@ -1,4 +1,6 @@
-# Excel_IP_Status
+# Excel_IP_Status.xlsm
+
+
 This program is an excel macro designed to automatically ping and record the status of a list of IP Addresses.
 
 
